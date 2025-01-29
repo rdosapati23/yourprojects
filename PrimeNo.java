@@ -8,6 +8,6 @@ public class PrimeNo {
 		}
 		if(count == 2) return true;
 		else return false;
-	}
-
+	}A
 }
+ 
